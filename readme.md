@@ -1,2 +1,2 @@
 # readme #
-commit changes
+This is plumeria pudica's first remote repository 
